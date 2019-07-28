@@ -14,9 +14,9 @@ Keep in mind. **For us to see your work it has to be in GitHub, aka the central 
 
 ## Step 1: Clone the repository. TODOs exist here
 ### TODO 1 
-As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Lab 4 repository (`CS193HW4`), **run** the command `git clone https://github.com/Purdue-CS193/CS193HW4.git`. As we know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
+As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Lab 4 repository (`CS193HW4-<your github username>`), **run** the command `git clone https://github.com/Purdue-CS193/CS193HW4-<your github username>.git`. As we know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
 
-Now if you run `ls`, you should see a directory called `CS193HW4`. `cd` into this directory and run `ls` again and you should see all the same files that GitHub shows in the browser for this repository. 
+Now if you run `ls`, you should see a directory called `CS193HW4-<your github username>`. `cd` into this directory and run `ls` again and you should see all the same files that GitHub shows in the browser for this repository. 
 
 ## Step 2: Status
 One of the most frequently used git commands is `git status`. Any time you are inside a git repository (i.e. your current directory or one of its parents is an initialized git repository), you can run `git status` to see precisely what state your repository is in. 
