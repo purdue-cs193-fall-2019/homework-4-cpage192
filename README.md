@@ -7,8 +7,10 @@ This assignment you will be working with the basics of git. Git as you heard fro
 This homework will be due in ######
 
 ## When will I know I'm done?
-Advice: Really read the steps!!
-When you finish the steps that will be outlined next with a completed worksheet visibile on GitHub.
+Advice: Really read the steps!! <br/>
+You will know you can see the tasks filled on the answers.txt on **GitHub**, not just the terminal <br/>
+Also make sure that **worksheet.txt** is filled out in GitHub as well. 
+Keep in mind. **For us to see your work it has to be in GitHub, aka the central repository. We can't grade your work if it is just in your local repository.**
 
 ## Step 1: Clone the repository. TODOs exist here
 ### TODO 1 
