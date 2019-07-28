@@ -1,0 +1,20 @@
+Q:What are the 3 commands to transfer something from your local codebase to github
+
+
+Q: What does git clone do? 
+
+
+Q: Git status?
+
+
+Q: What does Your branch is up to date with 'origin/master' tell you?
+
+
+Q: You’ve made a change to a file in GitHub, the one on the browser, and now you run git status on the terminal. It still says up to date despite the change. What command do you need to enter first?
+
+
+Q: You’ve just ran the rm command and deleted an important file and all your code is deleted not including the local repository. You’ve only ran git add and git commit before the rogue command. Is your code saved?
+
+
+Q: You’re computer crashes and all your code is deleted, including the local repository. You’ve only ran git add and git commit. Is your code saved?
+
