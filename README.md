@@ -49,7 +49,7 @@ Open `answers.txt` on your local computer (NOT FROM GITHUB) with a text editor a
 ## Step 4: Making a commit. TODOs are here too
 Now that we've made a change to `answers.txt` we need to actually commit this change. Run `git status` in the Lab 4 directory. Notice how git lists the `Changes not staged for commit`. As expected, `answers.txt` is listed as a file that we have changed. 
 
-To `commit` the change, we need to first `stage` `answers.txt` so it is ready to be committed. To do this, run `git add answers.txt` and then run `git status` again. git now tells us that `Changes to be committed:` includes `answers.txt`. To stage all changed files you can run `git add .`. 
+To `commit` the change, we need to first `stage` `answers.txt` so it is ready to be committed. To do this, run `git add answers.txt` and then run `git status` again. git now tells us that `Changes to be committed:` includes `answers.txt`. To stage all changed files you can run `git add .`
 
 Perfect! We are now ready to make our commit. Run `git commit` and in the text editor that pops up, write a detailed commit message such as "Added description for 'git fetch' in answers.txt". After you save your commit message and exit the text editor, your commit is complete! If you would like to do it all in one line, you can use the `-m` flag. Let's say I want my message to be *Implemented smoother control flow*. I would run `git commit -m "Implemented smoother control flow`. 
 
