@@ -53,7 +53,7 @@ Now that we've made a change to `answers.txt` we need to actually commit this ch
 
 To `commit` the change, we need to first `stage` `answers.txt` so it is ready to be committed. To do this, run `git add answers.txt` and then run `git status` again. git now tells us that `Changes to be committed:` includes `answers.txt`. To stage all changed files you can run `git add .`
 
-Perfect! We are now ready to make our commit. Run `git commit` and in the text editor that pops up, write a detailed commit message such as "Added description for 'git fetch' in answers.txt". After you save your commit message and exit the text editor, your commit is complete! If you would like to do it all in one line, you can use the `-m` flag. Let's say I want my message to be *Implemented smoother control flow*. I would run `git commit -m "Implemented smoother control flow`. 
+Perfect! We are now ready to make our commit. Run `git commit` and in the text editor that pops up, write a detailed commit message such as "Added description for 'git fetch' in answers.txt". After you save your commit message and exit the text editor, your commit is complete! If you would like to do it all in one line, you can use the `-m` flag. Let's say I want my message to be *Implemented smoother control flow*. I would run `git commit -m "Implemented smoother control flow"`. 
 
 Now if we go back to GitHub, we should see this change right???? WRONG! Remember from Task 1 that syncing your local git repository with the remote server (GitHub) is not automatic! To `push` your local changes to the remote server, run `git push`. Now check the GitHub Lab 4 repository again. BAM! There are your fancy new changes. *Note it might take a couple seconds*. 
 
