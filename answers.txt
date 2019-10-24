@@ -9,4 +9,5 @@ it. Note: master branch might not be locally updated!
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 Git is a local repository, while Github is a master repository. There can be
-many Gits, but only one Github.
+many Gits, but only one Github. Accidentally did this one with task 1, so I
+added this to make a change.
